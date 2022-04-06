@@ -1,0 +1,15 @@
+.titulo-tarefas {
+  font-size: 1.15em;
+}
+
+@media screen and (min-width:768px) {
+  .titulo-tarefas {
+    font-size: 1.375em;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .titulo-tarefas {
+    font-size: 1.5em;
+  }
+}

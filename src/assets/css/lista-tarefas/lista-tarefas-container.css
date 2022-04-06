@@ -1,0 +1,13 @@
+.lista-tarefas-container {
+  height: 24rem;
+  padding: var(--padding-padrao);
+}
+
+@media screen and (min-width: 1024px) {
+  .lista-tarefas-container {
+    grid-column: 2;
+    grid-row: 1;
+    height: 100%;
+    width: 100%;
+  }
+}

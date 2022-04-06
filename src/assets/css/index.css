@@ -1,0 +1,24 @@
+#root {
+  background-color: var(--branco-background);
+}
+
+:root {
+  --branco-background: #f8f8f8;
+  --cinza-background: #c0c0c0;
+  --vermelho-chamada: #dc143c;
+
+  --padding-padrao: 0.45em;
+  --borda-raio-padrao: 15px;
+}
+
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

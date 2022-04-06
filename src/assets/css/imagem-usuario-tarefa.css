@@ -1,0 +1,17 @@
+.imagem-usuario-tarefa {
+  display: none;
+  border-radius: 100px;
+  width: 22%;
+}
+
+@media screen and (min-width: 768px) {
+  .imagem-usuario-tarefa {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .imagem-usuario-tarefa {
+    max-width: 5.5em;
+  }
+}

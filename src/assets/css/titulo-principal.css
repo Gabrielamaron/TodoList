@@ -1,0 +1,17 @@
+.titulo-principal {
+  font-size: 1.2em;
+  font-weight: 700;
+  opacity: 0.9;
+}
+
+@media screen and (min-width: 720px) {
+  .titulo-principal {
+    font-size: 1.35em;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .titulo-principal {
+    font-size: 1.5em;
+  }
+}

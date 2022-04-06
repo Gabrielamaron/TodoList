@@ -1,0 +1,15 @@
+.adicionar-tarefas {
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+}
+
+@media screen and (min-width: 1024px) {
+  .adicionar-tarefas {
+    grid-column: 1;
+    grid-row: 1;
+    height: 100%;
+    padding: var(--padding-padrao);
+    width: 100%;
+  }
+}

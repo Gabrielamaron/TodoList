@@ -1,0 +1,15 @@
+.tarefa h3 {
+  margin: 0;
+}
+
+.tarefa p:last-child {
+  font-size: 0.8em;
+  margin: 0;
+  opacity: 0.55;
+}
+
+@media screen and (min-width: 768px) {
+  .tarefa p:last-child {
+    font-size: 1.045em;
+  }
+}

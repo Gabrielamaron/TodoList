@@ -1,0 +1,7 @@
+.lista-tarefas {
+  display: flex;
+  flex-direction: column;
+  height: 15rem;
+  list-style: none;
+  padding: var(--padding-padrao);
+}

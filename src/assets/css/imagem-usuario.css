@@ -1,0 +1,16 @@
+.imagem-usuario {
+  border-radius: 100px;
+  width: 5.4em;
+}
+
+@media screen and (min-width: 720px) {
+  .imagem-usuario {
+    width: 7.2em;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .imagem-usuario {
+    width: 8.2em
+  }
+}

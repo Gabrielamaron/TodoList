@@ -1,0 +1,15 @@
+.tarefa__titulo {
+  font-size: 1.15em;
+}
+
+@media screen and (min-width: 768px) {
+  .tarefa__titulo {
+    font-size: 1.32em;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .tarefa__titulo {
+    font-size: 1.5em;
+  }
+}

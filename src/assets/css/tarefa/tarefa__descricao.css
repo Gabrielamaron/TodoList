@@ -1,0 +1,10 @@
+.tarefa__descricao {
+  font-size: 0.925em;
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .tarefa__descricao {
+    font-size: 1.1em;
+  }
+}
