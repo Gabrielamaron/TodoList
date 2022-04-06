@@ -23,3 +23,33 @@ Esse projeto não possui sistema de versionamento ainda.
 ## Contribuição
 Sinta-se à vontade para adicionar um pull request no projeto! =)
 
+## Sobre
+Esse projeto foi feito usando o Vite para iniciar uma aplicação React. 
+<br>
+Foi usado o modern-normalize para resetar estilos do browser. 
+<br>
+Além disso, foi utilazada a biblioteca material-ui, a fim de obter componentes, e também
+o Supabase como banco de dados. 
+ 
+Atenção:
+<br>
+O Projeto usa um banco de dados gratuito do supabase. 
+<br>
+Pode ser que ao clonar esse
+repositório o banco de dados tenha sido deletado do supabase. 
+<br>
+Caso esse seja seu problema, 
+basta criar o ser próprio projeto no supabase e trocar a chave anônima e a url que estão 
+em src/pages/PaginaTarefas.jsx
+<br>
+<br>
+Links:
+<br>
+https://vitejs.dev/
+<br>
+https://github.com/sindresorhus/modern-normalize
+<br>
+https://mui.com/pt/
+<br>
+https://supabase.com/
+<br>
