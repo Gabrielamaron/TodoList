@@ -25,6 +25,7 @@ Sinta-se à vontade para adicionar um pull request no projeto! =)
 
 ## Sobre
 Esse projeto foi feito usando o Vite para iniciar uma aplicação React. 
+Foi usado também, o React Router para roteamento.
 <br>
 Foi usado o modern-normalize para resetar estilos do browser. 
 <br>
@@ -46,6 +47,8 @@ em src/pages/PaginaTarefas.jsx
 Links:
 <br>
 https://vitejs.dev/
+<br>
+https://v5.reactrouter.com/web/guides/quick-start
 <br>
 https://github.com/sindresorhus/modern-normalize
 <br>
